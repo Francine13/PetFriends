@@ -1,5 +1,6 @@
-﻿#Pet Friends - Como executar
-Clone o repositório
+﻿# Pet Friends - Como executar
+ 
+# Clone o repositório
 $ git clone https://github.com/Francine13/PetFriends
 
 Entre na pasta do projeto
